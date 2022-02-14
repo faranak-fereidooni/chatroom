@@ -8,7 +8,6 @@ import {
   getDocs,
   setDoc,
   Timestamp,
-  deleteDoc,
   onSnapshot,
   where, 
   orderBy
